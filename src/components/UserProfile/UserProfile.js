@@ -57,7 +57,7 @@ function UserProfile(props) {
       <div className="page-container">
         <div className="user-info">
           {users
-            .filter((user) => user._id === userId)
+            ?.filter((user) => user._id === userId)
             .map((user) => (
               <>
                 <h2>{t('UserProfile.1')}</h2>

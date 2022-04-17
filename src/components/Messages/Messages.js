@@ -78,7 +78,7 @@ function Messages(props) {
     const today = new Date();
     today.setHours(today.getHours() + 1);
 
-    const receiver = onlineUsers.find((member) => member.userId !== CURRENT_USER._id);
+    const receiver = onlineUsers?.find((member) => member.userId !== CURRENT_USER._id);
 
     if (receiver) {
       socket.current.emit('sendMessage', {
@@ -133,7 +133,7 @@ function Messages(props) {
       </div>
       <div className="chatbox">
         {' '}
-        {conversationMessages.map((message) => (
+        {conversationMessages?.map((message) => (
           <div className="message-box">
             {USERS.filter((user) => user._id === message.senderId).map((user) => (
               <h5>{user.name}</h5>

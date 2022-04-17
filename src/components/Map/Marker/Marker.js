@@ -37,7 +37,7 @@ function MarkerComponent(props) {
   
   return (
     <>
-      {PLACES.filter((place) => place.statusPlace === 'added').map((place) => (
+      {PLACES?.filter((place) => place.statusPlace === 'added').map((place) => (
         <Marker position={place.position} icon={MyIcon(place)}>
           <Popup>
             <img src={place.img} width="190px" height="190px" alt="Logo" />

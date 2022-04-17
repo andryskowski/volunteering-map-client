@@ -50,7 +50,7 @@ function PlacesPanel() {
     <>
       <div className="page-container">
         <h1>Panel miejsc</h1>
-        {placesWithPagination.map((place) => (
+        {placesWithPagination?.map((place) => (
           <div className="place-list-item" key={place._id}>
             <button className="remove-user-button" value={place._id} type="submit" onClick={removeSelectedPlace}>X</button>
             <div>

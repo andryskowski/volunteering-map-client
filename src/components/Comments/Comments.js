@@ -52,7 +52,7 @@ function Comments({ placeId }) {
         :
       </h1>
       <div className="comments">
-        {comments.filter((comment) => comment.placeId === placeId).reverse().map((comment) => (
+        {comments?.filter((comment) => comment.placeId === placeId).reverse().map((comment) => (
           <div key={comment._id} className="comment">
             <Link to={comment.authorId} userId={comment.authorId}>
               <div className="profilephoto-container">

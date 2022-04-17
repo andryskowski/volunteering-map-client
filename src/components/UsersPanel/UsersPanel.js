@@ -48,7 +48,7 @@ function UsersPanel() {
       <div className="page-container users-panel">
         <h1>Panel użytkowników</h1>
         <div className="users-container">
-          {usersWithPagination.map((user) => (
+          {usersWithPagination?.map((user) => (
             <div className="user-container">
               <button className="remove-user-button" value={user._id} type="submit" onClick={removeSelectedUser}>X</button>
               <div className="role-container">

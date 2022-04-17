@@ -108,7 +108,7 @@ function ListPlaces() {
   // Get current items
   const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
-  const placesWithPagination = currentPlaces.slice(indexOfFirstItem, indexOfLastItem);
+  const placesWithPagination = currentPlaces?.slice(indexOfFirstItem, indexOfLastItem);
 
   return (
     <div className="page-container">
@@ -156,7 +156,7 @@ function ListPlaces() {
       {placesWithPagination}
       <Pagination
         itemsPerPage={itemsPerPage}
-        totalItems={currentPlaces.length}
+        totalItems={currentPlaces?.length}
         paginate={paginate}
       />
     </div>

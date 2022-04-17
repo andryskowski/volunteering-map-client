@@ -66,7 +66,7 @@ function MessagesPanel() {
   // get info about friend (second member of conversation)
   const friendInfo = (currentConversation) => {
     const friendId = currentConversation.members.filter((member) => member !== CURRENT_USER._id);
-    const friend = USERS.find((user) => user._id === friendId.toString());
+    const friend = USERS?.find((user) => user._id === friendId.toString());
     return (
       <div className="linkToConversation">
         <Link
