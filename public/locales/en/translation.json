@@ -1,0 +1,178 @@
+{
+    "Navbar": {
+        "1": "Start",
+        "2": "List of places",
+        "3": "Add place",
+        "4": "Contact",
+        "5": "About",
+        "6": "Panel of users",
+        "7": "Panel of places",
+        "8": "Panel of comments",
+        "9": "Messages",
+        "10": "Profile",
+        "11": "Log out"
+    },
+    "List of places": {
+        "1": "List of places",
+        "2": "District:",
+        "3": "All",
+        "4": "other",
+        "5": "Category:",
+        "6": "children",
+        "7": "animals",
+        "8": "invalids",
+        "9": "addictions",
+        "10": "retirees",
+        "11": "others",
+        "12": "Sort:",
+        "13": "newest",
+        "14": "oldest",
+        "15": "Search by name:",
+        "16": "Last update",
+        "17": "Description:"
+    },
+    "Placeform": {
+        "1": "Add place",
+        "2": "Name of place:",
+        "3": "Webpage:",
+        "4": "E-mail:",
+        "5": "Phone number:",
+        "6": "City:",
+        "7": "Street:",
+        "8": "House number:",
+        "9": "Postal code:",
+        "10": "District:",
+        "11": "other",
+        "12": "Link to logo:",
+        "13": "Category:",
+        "14": "other",
+        "15": "children",
+        "16": "animals",
+        "17": "invalids",
+        "18": "addictions",
+        "19": "retirees",
+        "20": "Short description:",
+        "21": "Description:",
+        "22": "Send"
+    },
+    "ViewPlaceform": {
+        "1": "Preview",
+        "2": "Name of place:",
+        "3": "Phone number:",
+        "4": "Webpage:",
+        "5": "E-mail:",
+        "6": "Address:",
+        "7": "Preview on the map:",
+        "8": "Category:",
+        "9": "Description:",
+        "10": "Send",
+        "11": "Attention!",
+        "12": "Remember that the place you added will not be immediately visible on the map. First it has to be approved by the moderator. In case of an incorrect display of the help place on the map, don't worry, each location will be confirmed by the moderator."
+    },
+    "Contact": {
+        "1": "Contact",
+        "2": "Do you have a question? Have you noticed an error on the website? You can easily contact the website administrator using the form below:",
+        "3": "Username:",
+        "4": "E-mail:",
+        "5": "Subject:",
+        "6": "Message:",
+        "7": "Send message:"
+    },
+    "Comments": {
+        "1": "Comments:",
+        "2": "Subject:",
+        "3": "Message:",
+        "4": "Date added:"
+    },
+    "CommentsForm": {
+        "1": "Add comment:",
+        "2": "Subject:",
+        "3": "Message:",
+        "4": "Send"
+    },
+    "LandingPage": {
+        "1": "Are you looking for a place where you can spend wonderful moments, meet new people, and at the same time help others? You've come to the right place! The 'Volunteering Map' will help you find what you are looking for. This completely free application allows you to find a foundation, hostel, retirement home or any other place where you are looking for volunteers. Check what facilities are located in your area. Perhaps creating an account on our portal will change your life ... Who knows, maybe you will meet friends here for years who will be your helping hand in more difficult times?",
+        "2": "See for yourself!",
+        "3": "Log in/Create an account",
+        "4": "Go back"
+    },
+    "LoginForm": {
+        "1": "Log in",
+        "2": "Fill out the form below to log in.",
+        "3": "E-mail:",
+        "4": "Password:",
+        "5": "Send"
+    },
+    "RegisterForm": {
+        "1": "Create an account",
+        "2": "Fill out the form below to create an account.",
+        "3": "Login/Username:",
+        "4": "E-mail:",
+        "5": "Password:",
+        "6": "Send"
+    },
+    "MainPage": {
+        "1": "Hello"
+    },
+    "Legend": {
+        "1": "Legend",
+        "2": "children category",
+        "3": "animals category",
+        "4": "invalids category",
+        "5": "addictions category",
+        "6": "retirees category",
+        "7": "another category"
+    },
+    "MessagesPanel": {
+        "1": "Conversations with users",
+        "2": "Conversation with user:",
+        "3": "No new messages",
+        "4": "New messages",
+        "5": "Last message:",
+        "6": "Date:"
+    },
+    "Messages": {
+        "1": "Conversation with user:"
+    },
+    "UserProfile": {
+        "1": "User profile",
+        "2": "Role",
+        "3": "Send a message",
+        "4": "Username",
+        "5": "Joined on",
+        "6": "at",
+        "7": "E-mail",
+        "8": "Description"
+    },
+    "UserPanel": {
+        "1": "Profile",
+        "2": "Role:",
+        "3": "Username",
+        "4": "Joined",
+        "5": "at",
+        "6": "E-mail",
+        "7": "Description:",
+        "8": "Edit profile",
+        "9": "Link to the new avatar:",
+        "10": "New username:",
+        "11": "New email:",
+        "12": "Change password:",
+        "13": "New password",
+        "14": "Send:",
+        "15": "Description:",
+        "16": "Send"
+    },
+    "PlacePage": {
+        "1": "Page of place",
+        "2": "Address: ",
+        "3": "Category: ",
+        "4": "District: ",
+        "5": "Phone number: ",
+        "6": "Email: ",
+        "7": "Webpage: ",
+        "8": "Added by: ",
+        "9": "Date: ",
+        "10": "Description"
+    }
+    
+}

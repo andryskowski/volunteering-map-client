@@ -1,0 +1,17 @@
+.filters-form{
+    display: flex;
+    flex-direction: row;
+    label{
+        padding: 0 10px 0 10px;
+        select, input{
+            margin-left: 5px;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .filters-form{
+        display: flex;
+        flex-direction: column;
+    }
+}

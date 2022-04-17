@@ -1,0 +1,47 @@
+.conversation-box{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 5px;
+    display: flex;
+}
+
+.chat-main-bar{
+    color: white;
+    display: flex;
+    background-color: #0074D9;
+    
+}
+
+.first-part{
+    display: flex;
+}
+
+.second-part{
+    margin-left: 20px;
+}
+
+.linkToConversation{
+    background-color: #a1bfda;
+    display: flex;
+    width: 520px;
+}
+
+.text-no-newmessages{
+    color: gray !important;
+}
+
+.last-message{
+    font-style: italic;
+    color: navy;
+}
+
+.chat-avatar{
+    margin: 0 10px;
+}
+
+.h4-messagespanel{
+margin-top: 60px;
+}
+
+.conversations-box{
+    margin-bottom: 10px;
+}

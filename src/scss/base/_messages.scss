@@ -1,0 +1,43 @@
+.chatbox{
+    background-color: rgba(211, 211, 211, 0.301);
+    border: 3px black solid;
+    height: 400px;
+    overflow: auto;
+}
+
+.message-box{
+    border-bottom: 3px darkgray dashed;
+}
+
+.h2-messages{
+    margin-top:27px;
+}
+
+.chat-avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.user-online{
+    color: rgb(7, 185, 7)
+}
+
+.user-offline{
+    color: red;
+}
+
+.chat-main-bar{
+    margin: 25px 0;
+    padding: 10px;
+}
+
+.message-input{
+    font-size: 0.8em;
+    margin: 10px 10px 0 0;
+    width: 830px;
+}
+
+.submit-messages{
+    padding: 4px;
+}

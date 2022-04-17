@@ -1,0 +1,33 @@
+
+.contact-page{
+    background-image: url("../../assets/people-contact-page-3.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.form-contact{
+    .message-input{
+        height: 135px;
+    }
+
+    textarea{
+        font-size: 1.5em;
+    }
+    label{
+        input{
+        margin-top: 10px;
+        }
+        textarea{
+            margin-top: 10px;
+        }
+
+    } 
+    input[type=submit]{
+        margin-top: 5px;
+    }
+}
+
+.contact-header-2{
+   color: navy;
+   
+}

@@ -1,0 +1,177 @@
+{
+    "Navbar": {
+        "1": "Start",
+        "2": "Lista miejsc",
+        "3": "Dodaj miejsce",
+        "4": "Kontakt",
+        "5": "O stronie",
+        "6": "Panel użytkowników",
+        "7": "Panel miejsc",
+        "8": "Panel komentarzy",
+        "9": "Wiadomości",
+        "10": "Profil",
+        "11": "Wyloguj się"
+    },
+    "List of places": {
+        "1": "Lista miejsc",
+        "2": "Dzielnica:",
+        "3": "Wszystkie",
+        "4": "inna",
+        "5": "Kategoria:",
+        "6": "dzieci",
+        "7": "zwierzęta",
+        "8": "inwalidzi",
+        "9": "uzależnienia",
+        "10": "emeryci",
+        "11": "inne",
+        "12": "Sortuj:",
+        "13": "najnowsze",
+        "14": "najstarsze",
+        "15": "Wyszukaj po nazwie:",
+        "16": "Ostatnia aktualizacja",
+        "17": "Opis:"
+    },
+    "Placeform": {
+        "1": "Dodaj miejsce",
+        "2": "Nazwa fundacji (lub miejsca pomocy):",
+        "3": "Strona internetowa:",
+        "4": "E-mail:",
+        "5": "Telefon:",
+        "6": "Miasto:",
+        "7": "Ulica:",
+        "8": "Numer domu:",
+        "9": "Kod pocztowy:",
+        "10": "Dzielnica:",
+        "11": "inna",
+        "12": "Link do zdjecia logo fundacji/miejsca pomocy:",
+        "13": "Kategoria:",
+        "14": "inne",
+        "15": "dzieci",
+        "16": "zwierzęta",
+        "17": "inwalidzi",
+        "18": "uzależnienia",
+        "19": "emeryci",
+        "20": "Krótki opis fundacji/miejsca pomocy:",
+        "21": "Opis:",
+        "22": "Wyślij"
+    },
+    "ViewPlaceform": {
+        "1": "Podgląd",
+        "2": "Nazwa fundacji (lub miejsca pomocy):",
+        "3": "Telefon:",
+        "4": "Strona internetowa:",
+        "5": "E-mail:",
+        "6": "Adres:",
+        "7": "Podgląd na mapie:",
+        "8": "Kategoria",
+        "9": "Opis:",
+        "10": "Wyślij",
+        "11": "Uwaga!",
+        "12": "Pamiętaj, że dodane przez Ciebie miejsce nie będzie od razu widoczne na mapie. Najpierw musi zostać zaakceptowane przez moderatora. W przypadku błędnego wyświetlania miejsca pomocy na mapie, bez obaw, każda lokalizacja zostaje potwierdzona przez moderatora."
+    },
+    "Contact": {
+        "1": "Kontakt",
+        "2": "Masz pytanie? Zauważyłeś błąd na stronie? Za pomocą poniższego formularza możesz z łatwością skontaktować się z administratorem serwisu.:",
+        "3": "Nazwa użytkownika:",
+        "4": "E-mail:",
+        "5": "Temat:",
+        "6": "Wiadomość:",
+        "7": "Wyślij wiadomość:"
+    },
+    "Comments": {
+        "1": "Komentarze:",
+        "2": "Temat:",
+        "3": "Wiadomość:",
+        "4": "Data dodania:"
+    },
+    "CommentsForm": {
+        "1": "Dodaj swój komentarz:",
+        "2": "Temat:",
+        "3": "Treść komentarza:",
+        "4": "Wyślij"
+    },
+    "LandingPage": {
+        "1": "Szukasz miejsca, w którym mógłbyś spędzić wspaniałe chwile, poznać nowych ludzi, a przy okazji nieść pomoc innym? Dobrze trafiłeś! 'Volunteering Map' ułatwi Ci znalezienie tego czego szukasz. Ta całkowicie darmowa aplikacja pozwala na znalezienie fundacji, schroniska, domu seniora czy jakiegokolwiek innego miejsca, w którym poszukiwani są wolontariusze. Sprawdź jakie placówki znajdują się w Twojej okolicy. Być może założenie konta na naszym portalu zmieni Twoje życie... Kto wie, może spotkasz tu przyjaciół na lata, którzy będą Twoją pomocną dłonią w trudniejszych chwilach?",
+        "2": "Przekonaj się sam!",
+        "3": "Zaloguj/Zarejestruj się",
+        "4": "Powrót"
+    },
+    "LoginForm": {
+        "1": "Logowanie",
+        "2": "Wypełnij poniższy formularz, aby się zalogować.",
+        "3": "E-mail",
+        "4": "Hasło",
+        "5": "Wyślij"
+    },
+    "RegisterForm": {
+        "1": "Rejestracja",
+        "2": "Wypełnij poniższy formularz, aby się zarejestrować.",
+        "3": "Login/Nazwa użytkownika:",
+        "4": "E-mail:",
+        "5": "Hasło:",
+        "6": "Wyślij"
+    },
+    "MainPage": {
+        "1": "Witaj"
+    },
+    "Legend": {
+        "1": "Legenda",
+        "2": "kategoria dzieci",
+        "3": "kategoria zwierzęta",
+        "4": "kategoria inwalidzi",
+        "5": "kategoria uzależnienia",
+        "6": "kategoria emeryci",
+        "7": "kategoria inne"
+    },
+    "MessagesPanel": {
+        "1": "Konwersacje z użytkownikami",
+        "2": "Konwersacja z użytkownikiem:",
+        "3": "Brak nowych wiadomości",
+        "4": "Nowe wiadomości",
+        "5": "Ostatnia wiadomość:",
+        "6": "Data:"
+    },
+    "Messages": {
+        "1": "Konwersacja z użytkownikiem:"
+    },
+    "UserProfile": {
+        "1": "Profil użytkownika",
+        "2": "Rola:",
+        "3": "Napisz wiadomość",
+        "4": "Nazwa użytkownika:",
+        "5": "Dołączył dnia",
+        "6": ", o godzinie",
+        "7": "E-mail:",
+        "8": "Opis użytkownika:"
+    },
+    "UserPanel": {
+        "1": "Panel użytkownika",
+        "2": "Rola:",
+        "3": "Nazwa użytkownika",
+        "4": "Dołączył dnia",
+        "5": ",o godzinie",
+        "6": "E-mail",
+        "7": "Opis użytkownika:",
+        "8": "Edytuj profil",
+        "9": "Link do nowego zdjęcia profilowego:",
+        "10": "Nowa nazwa użytkownika:",
+        "11": "Nowy email:",
+        "12": "Zmień hasło:",
+        "13": "Nowe hasło:",
+        "14": "Wyślij:",
+        "15": "Opis:",
+        "16": "Wyślij"
+    },
+    "PlacePage": {
+        "1": "Strona miejsca pomocy",
+        "2": "Adres: ",
+        "3": "Kategoria: ",
+        "4": "Dzielnica: ",
+        "5": "Telefon: ",
+        "6": "Email: ",
+        "7": "Strona internetowa: ",
+        "8": "Dodano przez: ",
+        "9": "Data dodania: ",
+        "10": "Opis"
+    }
+}
