@@ -1,8 +1,3 @@
-/* eslint-disable max-len */
-/* eslint-disable import/prefer-default-export */
-/* eslint-disable no-console */
-/* eslint-disable no-alert */
-
 // PLACES:
 export async function getPlaces() {
   const response = await fetch('https://volunteeringmap-backend.herokuapp.com/places')

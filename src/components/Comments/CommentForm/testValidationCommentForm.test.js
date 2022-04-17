@@ -1,4 +1,3 @@
-/* eslint-disable prefer-const */
 import { validationCommentForm } from './validationCommentForm';
 
 describe('Place form validator', () => {

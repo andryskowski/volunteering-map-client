@@ -1,8 +1,3 @@
-/* eslint-disable jsx-a11y/control-has-associated-label */
-/* eslint-disable max-len */
-/* eslint-disable react/jsx-props-no-spreading */
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-underscore-dangle */
 import React, { useContext, useRef } from 'react';
 import { AnimatePresence, motion } from 'framer-motion/dist/framer-motion';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';

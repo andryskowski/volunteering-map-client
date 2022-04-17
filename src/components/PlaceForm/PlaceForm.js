@@ -72,7 +72,6 @@ function PlaceForm() {
     ],
   };
 
-  // eslint-disable-next-line no-unused-vars
   function handleSubmit(event) {
     event.preventDefault();
     const isValidated = validationPlaceForm(placeName, webPage, email, phone, city, street, 

@@ -50,7 +50,6 @@ function EditPlaceForm(props) {
     }
   }
 
-  // eslint-disable-next-line no-unused-vars
   function handleSubmit(event) {
     event.preventDefault();
     alert('The place has been edited');

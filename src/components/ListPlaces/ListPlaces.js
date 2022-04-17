@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/rules-of-hooks */
 import React, {
   useState, useContext, useEffect, useRef, 
 } from 'react';

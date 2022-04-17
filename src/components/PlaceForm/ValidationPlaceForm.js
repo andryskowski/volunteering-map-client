@@ -1,5 +1,3 @@
-/* eslint-disable import/prefer-default-export */
-
 const regexEmail = new RegExp(/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/);
 const regexPostalCode = new RegExp(/^([0-9]{2})(-[0-9]{3})?$/);
 const regexPhone = new RegExp(/\(\d{3}\)|\d{3}/);
