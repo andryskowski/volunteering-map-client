@@ -29,8 +29,7 @@ function Messages(props) {
   const { t } = useTranslation();
 
   useEffect(() => {
-    // socket.current = io('ws://localhost:8900');
-    socket.current = io();
+    socket.current = io('https://volunteeringmap-backend.herokuapp.com/');
     // get messages of this conversation from db
     const fetchMyData = async () => {
       const response = await getMessages(props.location.state.conversation._id);
@@ -62,7 +61,6 @@ function Messages(props) {
     socket.current.emit('addUser', CURRENT_USER._id);
     socket.current.on('getUsers', (users) => {
       setOnlineUsers(users);
-      console.log(onlineUsers, 'ONLINE USERS!!!');
     });
   }, [CURRENT_USER]);
 
@@ -135,7 +133,7 @@ function Messages(props) {
       </div>
       <div className="chatbox">
         {' '}
-        {conversationMessages?.map((message) => (
+        {conversationMessages.map((message) => (
           <div className="message-box">
             {USERS.filter((user) => user._id === message.senderId).map((user) => (
               <h5>{user.name}</h5>
